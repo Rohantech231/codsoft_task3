@@ -1,2 +1,3 @@
-# codsoft_task2
-A simple calculator made using HTML, CSS and Javascript with basic funtionalities.
+# Calculator-Project-FullStack
+ 
+I've added the fundamental functionality to the Simple Web Calculator project. Users can now perform basic arithmetic operations, including addition, subtraction, multiplication, and division. The calculator also supports decimal numbers for precise calculations. The user interface has been designed to be intuitive and responsive, making it accessible on various devices and screen sizes. Additionally, I've implemented the clear and backspace functionality to enhance the user experience. The project is now ready for further improvements and contributions from the open-source community.
